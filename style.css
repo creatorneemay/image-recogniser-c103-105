@@ -1,0 +1,13 @@
+.heading {
+    width: 80%;
+    font-size: 20px;
+}
+body{
+    background-color: blue;
+    color: red;
+}
+#camera, #result{
+width: 350px;
+height: 300px;
+border: 2px solid white;
+}
